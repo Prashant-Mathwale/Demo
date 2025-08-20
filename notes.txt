@@ -1,1 +1,2 @@
 This is My first git practice
+This line is written in feature1 branch.
